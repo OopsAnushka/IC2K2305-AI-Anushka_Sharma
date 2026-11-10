@@ -1,0 +1,22 @@
+
+Student_ID,Gender,CGPA,Internships,Course,Placement
+1,Male,8.5,2,Computer Science,Yes
+2,Female,7.2,1,Information Technology,Yes
+3,Male,6.1,0,Mechanical,No
+4,Female,8.9,3,Computer Science,Yes
+5,Male,5.8,0,Mechanical,No
+6,Female,7.8,2,Information Technology,Yes
+7,Male,6.5,1,Computer Science,No
+8,Female,9.1,3,Computer Science,Yes
+9,Male,7.0,1,Information Technology,Yes
+10,Female,5.5,0,Mechanical,No
+11,Male,8.2,2,Computer Science,Yes
+12,Female,6.3,0,Mechanical,No
+13,Male,,2,Information Technology,Yes
+14,Female,7.5,,Computer Science,Yes
+15,Male,5.9,0,Mechanical,No
+16,Female,8.7,3,Information Technology,Yes
+17,Male,6.8,1,Mechanical,No
+18,Female,9.3,3,Computer Science,Yes
+19,Male,7.4,2,Information Technology,Yes
+20,Female,5.7,0,Mechanical,No
